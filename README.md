@@ -3,6 +3,6 @@
 ---
 - 🚀 I'm currently building stuff at https://rango.dev
 - 🎨 I'm learning and studying about design systems
-- 🌱 And wrting useful blogs on my digital garden https://oliverloops.com
+- 🌱 And writing useful blogs on my digital garden https://oliverloops.com
 ___
 🎄🎄🎄
