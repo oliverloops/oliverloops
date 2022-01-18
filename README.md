@@ -1,8 +1,9 @@
-### Hi I'm Oliver :wave:
-#### Frontend and UI Developer, CSS Lover and Tech Geeky :bowtie:
+### Welcome!, I'm Oliver :wave:
+#### Software Engineer and Frontend Developer 👨‍💻
 ---
-- 🚀 I'm currently building stuff at https://rango.dev
-- 🎨 I'm learning and studying about design systems
-- 🌱 And writing useful blogs on my digital garden https://oliverloops.com
+- 🚀 I'm currently building DeFi and crypto related products at https://arriba.com
+- 📱 I'm interested in mobile development, web3 and design systems
+- 🎨 Having fun designing with CSS and JSX
+- 🌱 And writing blogs and ideas on my digital garden: https://oliverloops.com
 ___
-🎄🎄🎄
+ 🏔🏔🏔
