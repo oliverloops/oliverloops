@@ -1,9 +1,8 @@
 ### Welcome!, I'm Oliver :wave:
-#### Software Engineer and Frontend Developer 👨‍💻
+#### Frontend and Mobile Developer 👨‍💻
 ---
-- 🚀 I'm currently building DeFi and crypto related products at https://arriba.com
-- 📱 I'm interested in web and mobile development, web3 and design systems
-- 🎨 Having fun designing with CSS and JSX
+- 🚀 I'm currently building amazing products for startups products at https://rango.dev
+- 📱 I'm interested in web and mobile development, product design and design systems
 - 🌱 And writing blogs and ideas on my digital garden: https://oliverloops.com
 ___
- 🏔🏔🏔
+
