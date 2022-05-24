@@ -1,5 +1,5 @@
 ### Welcome!, I'm Oliver :wave:
-#### Frontend Engineer 👨‍💻
+#### Software Developer 👨‍💻
 ---
 - 🚀 I'm currently building amazing products for startups at https://rango.dev
 - 📱 I'm interested in web and mobile development, product design and design systems
