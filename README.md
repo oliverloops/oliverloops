@@ -1,8 +1,8 @@
-### Welcome!, I'm Oliver :wave:
-#### Mobile & UI Developer 👨‍💻
+### Hi there!, I'm Oliver :wave:
+#### Mobile & UI Developer 🏄‍♂️
 ---
-- 🚀 I'm currently building amazing products for startups at https://rango.dev
-- 📱 I'm interested in web and mobile development, product design and design systems
-- 🌱 And writing blogs and ideas on my digital garden: https://oliverloops.com
+- 🏥 I'm currently building amazing mobile experiences at https://medizona.com.mx
+- 📱 I'm interested in mobile development, navigation systems and product design.
+- 🌱 You can find some of my blogs and ideas on my digital garden: https://oliverloops.com
 ___
 
