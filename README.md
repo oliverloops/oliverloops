@@ -1,5 +1,5 @@
 ### Hi there!, I'm Oliver :wave:
-#### Mobile & UI Developer 🏄‍♂️
+#### React & UI Developer 🏄‍♂️
 ---
 - 🏥 I'm currently building amazing mobile experiences at https://medizona.com.mx
 - 📱 I'm interested in mobile development, design systems and product design.
