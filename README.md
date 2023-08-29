@@ -1,4 +1,4 @@
-# Hi, I'm Oliver :wave:
+# Hey, I'm Oliver :wave:
 ### Product & UI Engineer 🏄‍♂️
 > _"Focusing on the front-end is the most customer-obsessive way to build your products."_
 
