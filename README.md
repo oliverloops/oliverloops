@@ -9,6 +9,9 @@
 * :iphone: I'm interested in frontend & mobile development, design systems and UI design.
 * :octocat: Starting to contribute even more on my free times to projects I trust and love.
 * 🌱 You can find some of my blogs and ideas on my digital garden: https://oliverloops.com
+---
+### GitHub Status :rage2:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverloops&hide=html,css,julia,scss,mdx,cmake,starlark,c,makefile,shell,emacs%20lisp,ruby,roff,prolog,vim%2B%2B,kotlin,java,hcl,batchfile,gsl,meson,coffeescript,dart,glsl,jupyter%20notebook&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
