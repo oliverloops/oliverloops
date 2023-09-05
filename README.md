@@ -1,8 +1,5 @@
 # Hey, I'm Oliver :wave:
-### Product & UI Engineer 🏄‍♂️
-> _"Focusing on the front-end is the most customer-obsessive way to build your products."_
 
----
 ### About Me & My work 👨‍💻
 
 * :hospital: I'm currently building cross-platform mobile experiences at Medizona.
