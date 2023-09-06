@@ -1,4 +1,6 @@
-# Hey, I'm Oliver :wave:
+# Hi, I'm Oliver :wave:
+>  _"Focusing on the front-end is the most customer-obsessive way to build your products.”_ - _Guillermo Rauch_
+---
 
 ### About Me & My work 👨‍💻
 
