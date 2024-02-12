@@ -6,9 +6,8 @@
 
 * :hospital: I'm currently building cross-platform mobile experiences at Medizona.
 * :iphone: I'm interested in frontend & mobile development, design systems and UI design.
-* :octocat: Starting to contribute even more on my free times to projects I trust and love.
-* 🌱 You can find some of my blogs and ideas on my digital garden: https://oliverloops.com
----
+* :octocat: Contributing even more in my free time to open-source projects I trust and love.
+* 🌱 You can find some of my blogs, ideas, and projects on my digital garden: https://oliverloops.com
 
 <!--
 ### GitHub Status :rage2:
