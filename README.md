@@ -4,7 +4,7 @@
 
 ### About Me & My work 👨‍💻
 
-* :hospital: I'm currently building cross-platform mobile experiences at Medizona.
+* :atom_symbol: I'm the founder of the cross-platform development agency Loopsware.
 * :iphone: I'm interested in frontend & mobile development, design systems and UI design.
 * :octocat: Contributing even more in my free time to open-source projects I trust and love.
 * 🌱 You can find some of my blogs, ideas, and projects on my digital garden: https://oliverloops.com
