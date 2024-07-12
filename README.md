@@ -1,19 +1,29 @@
-# Hi, I'm Oliver :wave:
+## I'm Oliver, Mobile & Web Engineer :wave:
 >  _"Focusing on the front-end is the most customer-obsessive way to build your products.”_ - _Guillermo Rauch_
 ---
 
+ <a aligh="left" href="https://codemask.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:jacekpudysz@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/jpudysz" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/jpudysz" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+
 ### About Me & My work 👨‍💻
 
-* :atom_symbol: I'm the founder of the cross-platform development agency Loopsware.
+* :atom_symbol: I'm the founder of the React Native/Expo development agency Loopsware.
 * :iphone: I'm interested in frontend & mobile development, design systems and UI design.
 * :octocat: Contributing even more in my free time to open-source projects I trust and love.
-* 🌱 You can find some of my blogs, ideas, and projects on my digital garden: https://oliverloops.com
+* :frog: Based in Guanajuato, Mexico
+
+ ## Skills
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.apple.com/swift/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/swift.svg" alt="Swift" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a>  
+
+## Blog
+
+"A digital garden to grow your interior React Native Zen"
+
+🌱 [oliverloops.com](https://oliverloops.com) 
 
 <!--
 ### GitHub Status :rage2:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverloops&hide=astro,html,css,julia,scss,mdx,cmake,starlark,c,makefile,shell,emacs%20lisp,ruby,roff,prolog,vim%2B%2B,hcl,batchfile,gsl,meson,coffeescript,dart,glsl,jupyter%20notebook&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
 
 <!-- ### My favorite tech stack :heart:
 
