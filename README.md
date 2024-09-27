@@ -1,5 +1,5 @@
 ## I'm Oliver, Mobile & Web Engineer :wave:
->  _"Focusing on the front-end is the most customer-obsessive way to build your products.”_ - _Guillermo Rauch_
+>  _"Write Once, Run Everywhere.”_
 ---
 
 ### About Me & My work 👨‍💻
