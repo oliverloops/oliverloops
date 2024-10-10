@@ -1,20 +1,23 @@
-## I'm Oliver, Mobile & Web Engineer :wave:
->  _"Write Once, Run Everywhere.”_
+## I'm Oliver, Mobile Developer :wave:
+>  Life Mantra: _"Learn Once, Run Everywhere.”_
 ---
 
-### About Me & My work 👨‍💻
+### About Me 👨‍💻
 
-* :atom_symbol: I'm the founder of the React Native/Expo development agency Loopsware.
+* :rage2: I'm the founder of the React Native development agency Loopsware.
 * :iphone: I'm interested in frontend & mobile development, design systems and UI design.
-* :octocat: Contributing even more in my free time to open-source projects I trust and love.
-* :frog: Based in Guanajuato, Mexico
+* :frog: Based in Guanajuato, Mexico.
 
- ## Skills
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a><a href="https://react.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/kotlin.svg" alt="Kotlin" width="25" height="25" /></a><a href="https://www.swift.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/swift.svg" alt="Swift" width="25" height="25" /></a>  
+ ## My current tools ⚒️
+
+- :atom_symbol: React Native
+- :purple_heart: Kotlin 
+- :rocket: Jetpack Compose
+- :turtle: Node.js
 
 ## Blog
 
-"A digital garden to grow your interior React Native Zen"
+"A digital garden to grow your interior developer Zen"
 
 🌱 [oliverloops.com](https://oliverloops.com) 
 
