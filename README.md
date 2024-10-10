@@ -1,4 +1,3 @@
-## I'm Oliver, Mobile Developer :wave:
 >  Life Mantra: _"Learn Once, Run Everywhere.”_
 ---
 
