@@ -1,5 +1,4 @@
 >  Life Mantra: _"Learn Once, Run Everywhere.”_
----
 
 ### About Me 👨‍💻
 
