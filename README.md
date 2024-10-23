@@ -2,9 +2,9 @@
 
 ### About Me 👨‍💻
 
-* :rage2: I'm the founder of the React Native development agency Loopsware.
-* :iphone: I'm interested in frontend & mobile development, design systems and UI design.
-* :frog: Based in Guanajuato, Mexico.
+* :rage2: I'm a software engineer and tech enthusiast.
+* :iphone: I'm interested in UI & mobile development, design systems and software design.
+* :lion: Based in Leon, Mexico.
 
  ## My current tools ⚒️
 
