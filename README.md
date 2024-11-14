@@ -1,5 +1,3 @@
->  Life Mantra: _"Learn Once, Run Everywhere.”_
-
 ### About Me 👨‍💻
 
 * :rage2: I'm a software engineer at GlobalLogic and tech enthusiast.
