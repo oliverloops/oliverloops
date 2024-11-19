@@ -1,7 +1,7 @@
 ### About Me 👨‍💻
 
-* :rage2: I'm a software engineer at GlobalLogic and tech enthusiast.
-* :iphone: I'm interested in UI & mobile development, design systems and software design.
+* :rage2: I'm a software engineer and tech enthusiast.
+* :iphone: I'm interested in UI & mobile development and software design.
 * :lion: Based in Leon, Mexico.
 
  ## My current tools ⚒️
