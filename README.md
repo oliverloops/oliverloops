@@ -4,12 +4,14 @@
 * :iphone: I'm interested in UI & mobile development and software design.
 * :lion: Based in Leon, Mexico.
 
+<!--
  ## My current tools ⚒️
 
 - :atom_symbol: React Native
 - :purple_heart: Kotlin 
 - :rocket: Jetpack Compose
 - :turtle: Node.js
+-->
 
 ## Blog
 
