@@ -15,7 +15,7 @@
 - :turtle: Node.js
 -->
 
-## Read more on my blog
+## Blog:
 
 "A digital garden to grow your interior developer Zen"
 
