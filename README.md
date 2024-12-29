@@ -1,4 +1,4 @@
-### Hi! 👋
+## Hi! 👋
 
 * 👨‍💻 I'm a software engineer and tech enthusiast.
 * :atom_symbol: I'm interested in UI, mobile development, and software design.
