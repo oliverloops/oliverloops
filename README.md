@@ -1,6 +1,6 @@
 ## Hi 👋
 
-* 👨‍💻 I'm a software engineer and tech enthusiast.
+* 👨‍💻 I'm a software engineer and mobile developer.
 * :atom_symbol: I'm interested in UI, mobile development, and software design.
 * :iphone: Currently wrapping native Android views for fun and building [Expo](https://expo.new) apps.
 
