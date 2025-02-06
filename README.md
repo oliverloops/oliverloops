@@ -1,9 +1,9 @@
 ## Hi 👋
 
-* 👨‍💻 I'm a software engineer and tech enthusiast.
-* :atom_symbol: I'm interested in UI, mobile development, and software design.
+* 👨‍💻 I'm a software engineer and tech enthusiast
+* :atom_symbol: I'm interested in UI, mobile development, and software design
 * 📺 Currently bringing React Native to FireTV UI experiences at Amazon
-* :iphone: On my free times I'm helping to ehnance Android DX on [Expo](https://expo.new) apps.
+* :iphone: On my free times I'm helping to ehnance Android DX on [Expo](https://expo.new) apps
 
 <!--
  ## My current tools ⚒️
