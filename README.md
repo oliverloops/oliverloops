@@ -1,8 +1,8 @@
 ## Hi 👋
 
-* :atom_symbol: I'm interested in UI, mobile development, and software design
-* 📺 Currently bringing React Native to FireTV UI experiences at Amazon
-* 🚀 On my free times I'm building & shipping apps [Loopsware](https://loopsware.com)
+* :atom_symbol: I'm interested in frontend development, AI engineering, and software design
+* 📺 Currently bringing React Native to FireTV UI at Amazon
+* 🚀 On my free time I'm building & shipping [Loopsware](https://loopsware.com)
 
 <!--
  ## My current tools ⚒️
