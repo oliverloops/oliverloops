@@ -1,6 +1,6 @@
 ## Hi 👋
 
-* :atom_symbol: I'm interested in full-stack development, AI engineering, and software design
+* :atom_symbol: I'm interested in cross-platform development, AI engineering, and software design
 * 📺 Currently bringing React Native to FireTV UI at Amazon
 * 🤖 On my free time I started building my own AI Agents
 
