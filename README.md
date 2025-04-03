@@ -1,7 +1,6 @@
 ## Hi 👋
 
 * :atom_symbol: I'm interested in cross-platform development, AI engineering, and software design
-* 📺 Currently bringing React Native to FireTV UI experience at Amazon
 * 🤖 On my free time I'm building smarter apps at [Loopsware](https://loopsware.com)
 
 <!--
