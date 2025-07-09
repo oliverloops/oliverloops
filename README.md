@@ -1,8 +1,8 @@
 ## Hi 👋
 
-* :atom_symbol: I'm interested in cross-platform development, AI engineering, and software design
-* 👨‍💻 I'm a software engineer currently building React Native and Expo apps at [GlobalLogic](https://globallogic.com)
-* 🤖 In my free time, I'm building smarter mobile apps at [Loopsware](https://loopsware.com)
+* :atom_symbol: I'm interested in Cross-platform Development, Applied AI, and Product Engineering
+* 👨‍💻 I'm a Software Engineer currently building React Native and Expo apps at [GlobalLogic](https://globallogic.com)
+* ✨ On the side, I'm building smarter mobile apps at [Loopsware](https://loopsware.com)
 
 <!--
  ## My current tools ⚒️
@@ -13,9 +13,9 @@
 - :turtle: Node.js
 -->
 
-## My Blog:
+## My Blog (WIP):
 
-"A digital garden to grow your interior developer Zen"
+"A digital garden to grow your interior developer Zen" 
 
 🌱 [oliverloops.com](https://oliverloops.com) 
 
