@@ -1,8 +1,7 @@
-## Hi 👋
+# Hola 👋
 
-* :atom_symbol: I'm interested in Cross-platform Development, Applied AI, and Product Engineering
-* 👨‍💻 I'm a Software Engineer currently building React Native and Expo apps at [GlobalLogic](https://globallogic.com)
-* ✨ On the side, I'm building smarter mobile apps at [Loopsware](https://loopsware.com)
+🪴 I'm a Founder & Product Engineer at [Loopsware](https://loopsware.com) <br />
+⚛ I have an interest in Cross-platform Development, Mobile Apps, & Applied AI.
 
 <!--
  ## My current tools ⚒️
@@ -24,7 +23,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverloops&hide=astro,html,css,julia,scss,mdx,cmake,starlark,c,makefile,shell,emacs%20lisp,ruby,roff,prolog,vim%2B%2B,hcl,batchfile,gsl,meson,coffeescript,dart,glsl,jupyter%20notebook&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<!-- ### My favorite tech stack :heart:
+<!--
+### My favorite tech stack :heart:
 
 |              TypeScript            |          React           |       Million.js      |             Expo            |           Next.js         |         TailwindCSS             | 
 |:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
