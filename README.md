@@ -1,7 +1,8 @@
 # Hola 👋
 
-🪴 I'm a Founder & Product Engineer at [Loopsware](https://loopsware.com) <br />
-⚛ I have an interest in Cross-platform Development, Mobile Apps, & Applied AI.
+🪴 I'm the Founder of [Loopsware](https://loopsware.com), a Software creative lab <br />
+⌨️ Also a Co-founder and CTO at [Flat White Apps](https://flatwhiteapps.com), an Indie mobile app studio <br />
+⚛ I have an interest in Cross-platform development, Mobile apps, & Applied AI.
 
 <!--
  ## My current tools ⚒️
