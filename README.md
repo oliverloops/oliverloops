@@ -13,7 +13,7 @@
 - :turtle: Node.js
 -->
 
-## My Blog (WIP):
+## My Blog:
 
 "A digital garden to grow your interior developer Zen" 
 
