@@ -13,11 +13,8 @@
 - :turtle: Node.js
 -->
 
-## My Blog:
-
-"A digital garden to grow your interior developer Zen" 
-
-🌱 [oliverloops.com](https://oliverloops.com) 
+## My Personal site:
+🪴 [oliverloops.com](https://oliverloops.com) 
 
 <!--
 ### GitHub Status :rage2:
