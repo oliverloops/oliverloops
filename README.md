@@ -1,17 +1,15 @@
 # Hola 👋
 
-🪴 I'm the Founder of [Loopsware](https://loopsware.com), a Digital Creative Lab <br />
-⌨️ Also a Co-founder and CTO at [Flat White Apps](https://sabora.ai), an Indie Mobile App Studio <br />
-⚛ I have an interest in Cross-platform development, Mobile apps, & Applied AI.
+🌎 I'm the Founder of [Plany](https://plany.travel), the Best Travel Planning App <br />
+🚀 Also a Co-founder and CTO at [Flat White Apps], an Indie Mobile App Studio <br />
+⚛️ I have an interest in Cross-platform development, Mobile apps, & Agentic AI.
 
-<!--
- ## My current tools ⚒️
+ ## My current stack ⚒️
 
-- :atom_symbol: React Native
-- :purple_heart: Kotlin 
-- :rocket: Jetpack Compose
-- :turtle: Node.js
--->
+- ⚡️ [Expo](https://expo.dev/home)
+- ⚛️ [React Native](https://reactnative.dev)
+- 🔥 [Hono](https://hono.dev)
+- 🤖 [Claude Code](https://claude.ai)
 
 ## My Personal site:
 🪴 [oliverloops.com](https://oliverloops.com) 
