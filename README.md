@@ -1,7 +1,7 @@
 # Hola 👋
 
 🌎 I'm the Founder of [Plany](https://plany.travel), the Best Travel Planning App <br />
-🚀 Also a Co-founder and CTO at [Flat White Apps], an Indie Mobile App Studio <br />
+🚀 Also a Co-founder and CTO at Flat White Apps, an Indie Mobile App Studio <br />
 ⚛️ I have an interest in Cross-platform development, Mobile apps, & Agentic AI.
 
  ## My current stack ⚒️
