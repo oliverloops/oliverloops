@@ -5,9 +5,9 @@
 ⚛️ I have an interest in Cross-platform development, Mobile apps, & Agentic AI.
 
  ## My current stack ⚒️
-
-- ⚡️ [Expo](https://expo.dev/home)
+- 💙 [TypeScript](https://typescriptlang.org)
 - ⚛️ [React Native](https://reactnative.dev)
+- ⚡️ [Expo](https://expo.dev/home)
 - 🔥 [Hono](https://hono.dev)
 - 🤖 [Claude Code](https://claude.ai)
 
