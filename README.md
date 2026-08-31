@@ -9,7 +9,7 @@
 - ⚛️ [React Native](https://reactnative.dev)
 - ⚡️ [Expo](https://expo.dev/home)
 - 🔥 [Hono](https://hono.dev)
-- 🤖 [Claude Code](https://claude.ai)
+- 🤖 [SpaceXAI Grok](https://x.ai)
 
 ## My Personal site:
 🪴 [oliverloops.com](https://oliverloops.com) 
