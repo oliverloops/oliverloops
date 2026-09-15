@@ -5,6 +5,8 @@
 ⚛️ I have an interest in Cross-platform development, Mobile apps, & Agentic AI.
 
  ## My current stack ⚒️
+- 🧡 [Swift](https://swiftlang.org)
+- 🦋 [SwiftUI](https://developer.apple.com/swiftui/)
 - 💙 [TypeScript](https://typescriptlang.org)
 - ⚛️ [React Native](https://reactnative.dev)
 - ⚡️ [Expo](https://expo.dev/home)
