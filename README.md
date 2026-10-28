@@ -9,6 +9,7 @@
 - ⚛️ [React Native](https://reactnative.dev)
 - ⚡️ [Expo](https://expo.dev/home)
 - 🔥 [Hono](https://hono.dev)
+- 🥷 [Next.js](https://nextjs.org)
 - 🤖 [SpaceXAI Grok](https://x.ai) + [Claude](https://claude.ai)
 
 ## My Personal site:
