@@ -1,7 +1,7 @@
 # Hola 👋
 
 👊 I'm a Product Engineer & App Founder <br />
-🚀 I'm currently building and shipping [Plany](https://plany.travel) & [Recipy](https://recipy.food) <br />
+🚀 I'm currently building [Plany](https://plany.travel) & [Recipy](https://recipy.food)  <br />
 🌎 I have an interest in Cross-platform development, Mobile apps, & Agentic AI.
 
  ## My current stack ⚒️
