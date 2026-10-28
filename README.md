@@ -12,7 +12,7 @@
 - 🤖 [SpaceXAI Grok](https://x.ai) + [Claude](https://claude.ai)
 
 ## My Personal site:
-🪴 [oliverloops.com](https://oliverloops.com) 
+🌳 [oliverloops.com](https://oliverloops.com) 
 
 <!--
 ### GitHub Status :rage2:
