@@ -1,15 +1,15 @@
 # Hola 👋
 
-🌎 I'm the Founder of [Plany](https://plany.travel), the Best Travel Planning App <br />
-🚀 Also a Co-founder and CTO at Flat White Apps, an Indie Mobile App Studio <br />
-⚛️ I have an interest in Cross-platform development, Mobile apps, & Agentic AI.
+👊 I'm a Product Engineer & App Founder <br />
+🚀 I'm currently building [Plany](https://plany.travel) & [Recipy][https://recipy.food] <br />
+🌎 I have an interest in Cross-platform development, Mobile apps, & Agentic AI.
 
  ## My current stack ⚒️
 - 💙 [TypeScript](https://typescriptlang.org)
 - ⚛️ [React Native](https://reactnative.dev)
 - ⚡️ [Expo](https://expo.dev/home)
 - 🔥 [Hono](https://hono.dev)
-- 🤖 [SpaceXAI Grok](https://x.ai)
+- 🤖 [SpaceXAI Grok](https://x.ai) + [Claude](https://claude.ai)
 
 ## My Personal site:
 🪴 [oliverloops.com](https://oliverloops.com) 
